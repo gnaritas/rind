@@ -1,0 +1,6 @@
+node_modules/
+*.pyc
+__pycache__/
+shots/
+send-envelope.json
+.env

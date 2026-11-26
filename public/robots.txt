@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rind-demo.up.railway.app/sitemap.xml
